@@ -208,3 +208,4 @@ Built with ❤️ using modern web technologies to support rural entrepreneurshi
 ---
 
 **FarmConnect** - Empowering Farmers, Connecting Markets, Building Futures 🌱
+"# agri-connect" 
